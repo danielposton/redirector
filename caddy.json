@@ -3,7 +3,7 @@
    "config": {
      "load": {
        "module": "http",
-       "url": "",
+       "url": "https://raw.githubusercontent.com/danielposton/redirector/main/caddy.json",
      }
    }
  }
