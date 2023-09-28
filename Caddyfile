@@ -1,0 +1,10 @@
+{
+    admin :2019
+}
+
+:80
+
+respond /robots.txt 200 {
+    body "User-agent: *
+             Disallow: /"
+}
